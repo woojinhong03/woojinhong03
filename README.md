@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=This%20is%20Me&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=This%20is%20Me&fontSize=90)
 
 
 ## FrontEnd
@@ -30,6 +30,6 @@
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 
-<div></div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinhong03&&show_icons=true&theme=radical)
 
