@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Woojin :)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=Auto&height=300&section=header&text=hello%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=Auto&height=300&section=header)
 
 ## FrontEnd
 <p align="center">
