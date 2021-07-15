@@ -1,6 +1,7 @@
 # "가야 할 때 가지 않으면, 가고 싶을 때 갈 수 없다"
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=This is Me&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=This%20is%20Me&fontSize=90)
+
 
 ## FrontEnd
 <p align="center">
