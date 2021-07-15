@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Woojin :)
+# "가야 할 때 가지 않으면, 가고 싶을 때 갈 수 없다"
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
