@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=This%20is%20Me&fontSize=90)
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinhong03&&show_icons=true&theme=radical)
+
+
+
 ## FrontEnd
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -11,6 +16,8 @@
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
+
+
 
 ## Machine Learning
 <p align="center">
@@ -23,6 +30,8 @@
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+
+
 ## Design
 <p align="center">
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
@@ -31,5 +40,4 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojinhong03&&show_icons=true&theme=radical)
 
