@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=가야%20할%20때%20가지%20않으면%20가고%20싶을%20때%20갈%20수%20없다.&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text="가야%15할%15때%15가지%15않으면%15가고%15싶을%15때%15갈%15수%15없다"&fontSize=30)
 
 
 
